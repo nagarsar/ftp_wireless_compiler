@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/disconnect.png</file>
+        <file>icons/network.png</file>
+        <file>icons/uploadDocument.png</file>
+        <file>icons/uploadDocumentOnHover.png</file>
+        <file>icons/files.ico</file>
+        <file>icons/kdedocumentopen.ico</file>
+        <file>additionalSettings.qml</file>
+        <file>wifi.js</file>
+        <file>icons/fond.jpg</file>
+        <file>icons/fond.png</file>
+    </qresource>
+</RCC>
